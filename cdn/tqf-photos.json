@@ -1400,15 +1400,6 @@
         "source": "unsplash"
     },
     {
-        "url": "https://images.unsplash.com/photo-1714289840595-f810cccae649?ixid=M3w3NjQ5NzN8MHwxfHNlYXJjaHwyfHxlbGVwaGFudCUyMGNsb3NlLXVwJTIwZmFjZSUyMG1vbm9jaHJvbWUlMjBtaW5pbWFsfGVufDF8MHx8fDE3NTcyNDU4ODl8MA&ixlib=rb-4.1.0",
-        "photographer": "Yezhang Wang",
-        "photographerUrl": "https://unsplash.com/@yezhang?utm_source=tqf&utm_medium=referral",
-        "downloadLocation": "https://api.unsplash.com/photos/V9SXroJaq1Y/download?ixid=M3w3NjQ5NzN8MHwxfHNlYXJjaHwyfHxlbGVwaGFudCUyMGNsb3NlLXVwJTIwZmFjZSUyMG1vbm9jaHJvbWUlMjBtaW5pbWFsfGVufDF8MHx8fDE3NTcyNDU4ODl8MA",
-        "category": "animal",
-        "subject": "elephant",
-        "source": "unsplash"
-    },
-    {
         "url": "https://images.unsplash.com/photo-1623165865019-ae8838c36608?ixid=M3w3NjQ5NzN8MHwxfHNlYXJjaHwyM3x8ZWxlcGhhbnQlMjBjbG9zZS11cCUyMGZhY2UlMjBtb25vY2hyb21lJTIwbWluaW1hbHxlbnwxfDB8fHwxNzU3MjQ1ODg5fDA&ixlib=rb-4.1.0",
         "photographer": "Apsara",
         "photographerUrl": "https://unsplash.com/@apsaraaruna?utm_source=tqf&utm_medium=referral",
@@ -1910,15 +1901,6 @@
         "downloadLocation": "https://api.unsplash.com/photos/fR4-hxzBXKc/download?ixid=M3w3NjQ5NzN8MHwxfHNlYXJjaHwxMHx8bGlvbiUyMGhhbGYlMjBmYWNlJTIwYmxhY2slMjBhbmQlMjB3aGl0ZSUyMG1pbmltYWx8ZW58MXwwfHx8MTc1NzI0NTkyOHww",
         "category": "animal",
         "subject": "lion",
-        "source": "unsplash"
-    },
-    {
-        "url": "https://images.unsplash.com/photo-1714289840595-f810cccae649?ixid=M3w3NjQ5NzN8MHwxfHNlYXJjaHwxOXx8ZWxlcGhhbnQlMjBjbG9zZS11cCUyMGZhY2UlMjBibGFjayUyMGFuZCUyMHdoaXRlJTIwbWluaW1hbHxlbnwxfDB8fHwxNzU3MjQ2Mjc4fDA&ixlib=rb-4.1.0",
-        "photographer": "Yezhang Wang",
-        "photographerUrl": "https://unsplash.com/@yezhang?utm_source=tqf&utm_medium=referral",
-        "downloadLocation": "https://api.unsplash.com/photos/V9SXroJaq1Y/download?ixid=M3w3NjQ5NzN8MHwxfHNlYXJjaHwxOXx8ZWxlcGhhbnQlMjBjbG9zZS11cCUyMGZhY2UlMjBibGFjayUyMGFuZCUyMHdoaXRlJTIwbWluaW1hbHxlbnwxfDB8fHwxNzU3MjQ2Mjc4fDA",
-        "category": "animal",
-        "subject": "elephant",
         "source": "unsplash"
     },
     {
